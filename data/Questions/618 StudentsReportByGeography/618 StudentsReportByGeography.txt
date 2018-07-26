@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 3000, "like": 7, "paid_only": true, "level": "Hard", "url": "https://leetcode.com/problems/students-report-by-geography/description/", "topics": [], "title": "StudentsReportByGeography", "companies": [], "ac_rate": 0.4, "frequency": "66.92102319239402", "dislike": 24, "id": 618, "total_accpeted": 1200}

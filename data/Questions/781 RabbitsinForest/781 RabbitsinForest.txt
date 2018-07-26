@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 13300, "like": 72, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/rabbits-in-forest/description/", "topics": ["Hash Table", "Math"], "title": "RabbitsinForest", "companies": ["Wish\u00a0"], "ac_rate": 0.49624060150375937, "frequency": "135.23173132844033", "dislike": 97, "id": 781, "total_accpeted": 6600}

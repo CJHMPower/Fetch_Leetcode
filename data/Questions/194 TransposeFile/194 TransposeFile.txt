@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 33700, "like": 24, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/transpose-file/description/", "topics": [], "title": "TransposeFile", "companies": [], "ac_rate": 0.2166172106824926, "frequency": "578.0850351449262", "dislike": 86, "id": 194, "total_accpeted": 7300}

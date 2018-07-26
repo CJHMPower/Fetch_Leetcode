@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 5000, "like": 20, "paid_only": true, "level": "Hard", "url": "https://leetcode.com/problems/average-salary-departments-vs-company/description/", "topics": [], "title": "AverageSalaryDepartmentsVSCompany", "companies": [], "ac_rate": 0.34, "frequency": "85.63754116429627", "dislike": 5, "id": 615, "total_accpeted": 1700}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 85100, "like": 160, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/rotate-function/description/", "topics": ["Math"], "title": "RotateFunction", "companies": ["Amazon\u00a0"], "ac_rate": 0.3407755581668625, "frequency": "295.01654695860714", "dislike": 53, "id": 396, "total_accpeted": 29000}

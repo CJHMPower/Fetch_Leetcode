@@ -1,0 +1,1 @@
+{"similar_questions": ["Trapping Rain Water"], "total_submission": 10600, "like": 54, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/pour-water/description/", "topics": ["Array"], "title": "PourWater", "companies": ["Airbnb\u00a07"], "ac_rate": 0.3490566037735849, "frequency": "102.84646610865747", "dislike": 57, "id": 755, "total_accpeted": 3700}

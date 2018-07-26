@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 14900, "like": 26, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/magic-squares-in-grid/description/", "topics": ["Array"], "title": "MagicSquaresInGrid", "companies": ["Google\u00a0"], "ac_rate": 0.3422818791946309, "frequency": "62.42278801766295", "dislike": 238, "id": 840, "total_accpeted": 5100}

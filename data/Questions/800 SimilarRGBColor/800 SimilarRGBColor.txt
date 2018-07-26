@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8000, "like": 23, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/similar-rgb-color/description/", "topics": ["Math", "String"], "title": "SimilarRGBColor", "companies": ["Google\u00a0"], "ac_rate": 0.55, "frequency": "40.795320384477236", "dislike": 109, "id": 800, "total_accpeted": 4400}

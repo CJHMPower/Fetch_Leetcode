@@ -1,0 +1,1 @@
+{"similar_questions": ["Design HashMap"], "total_submission": 6800, "like": 13, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/design-hashset/description/", "topics": ["Hash Table", "Design"], "title": "DesignHashSet", "companies": [], "ac_rate": 0.17647058823529413, "frequency": "8.799167506384435", "dislike": 3, "id": 705, "total_accpeted": 1200}

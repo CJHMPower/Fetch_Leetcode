@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 25800, "like": 191, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/poor-pigs/description/", "topics": [], "title": "PoorPigs", "companies": ["Baidu\u00a03"], "ac_rate": 0.43023255813953487, "frequency": "611.9436421009294", "dislike": 431, "id": 458, "total_accpeted": 11100}

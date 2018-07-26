@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 55400, "like": 370, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/brick-wall/description/", "topics": ["Hash Table"], "title": "BrickWall", "companies": ["Facebook\u00a0"], "ac_rate": 0.4657039711191336, "frequency": "160.8357335391281", "dislike": 13, "id": 554, "total_accpeted": 25800}

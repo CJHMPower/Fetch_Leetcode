@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 12100, "like": 9, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/second-degree-follower/description/", "topics": [], "title": "SecondDegreeFollower", "companies": [], "ac_rate": 0.23140495867768596, "frequency": "73.28127562461381", "dislike": 120, "id": 614, "total_accpeted": 2800}

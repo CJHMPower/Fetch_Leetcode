@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 14900, "like": 43, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/prime-palindrome/description/", "topics": ["Math"], "title": "PrimePalindrome", "companies": [], "ac_rate": 0.174496644295302, "frequency": "15.485764612207461", "dislike": 118, "id": 866, "total_accpeted": 2600}

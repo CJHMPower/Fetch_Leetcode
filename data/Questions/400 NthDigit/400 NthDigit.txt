@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 125500, "like": 170, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/nth-digit/description/", "topics": ["Math"], "title": "NthDigit", "companies": ["Google\u00a06"], "ac_rate": 0.299601593625498, "frequency": "286.7670489495156", "dislike": 468, "id": 400, "total_accpeted": 37600}

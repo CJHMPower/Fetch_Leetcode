@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 13700, "like": 22, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/biggest-single-number/description/", "topics": [], "title": "BiggestSingleNumber", "companies": [], "ac_rate": 0.35766423357664234, "frequency": "21.36669928378039", "dislike": 19, "id": 619, "total_accpeted": 4900}

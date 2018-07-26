@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8700, "like": 25, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/investments-in-2016/description/", "topics": [], "title": "Investmentsin2016", "companies": ["Twitter\u00a06"], "ac_rate": 0.4482758620689655, "frequency": "63.39958753559901", "dislike": 28, "id": 585, "total_accpeted": 3900}

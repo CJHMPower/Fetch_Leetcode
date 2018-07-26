@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 1300, "like": 4, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/construct-quad-tree/description/", "topics": [], "title": "ConstructQuadTree", "companies": [], "ac_rate": 0.40692307692307694, "frequency": "0", "dislike": 32, "id": 427, "total_accpeted": 529}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 9100, "like": 20, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/walking-robot-simulation/description/", "topics": ["Greedy"], "title": "WalkingRobotSimulation", "companies": ["Jane Street\u00a0"], "ac_rate": 0.26373626373626374, "frequency": "0", "dislike": 122, "id": 874, "total_accpeted": 2400}

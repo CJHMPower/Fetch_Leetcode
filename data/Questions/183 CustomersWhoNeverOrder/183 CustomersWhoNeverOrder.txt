@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 168700, "like": 133, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/customers-who-never-order/description/", "topics": [], "title": "CustomersWhoNeverOrder", "companies": [], "ac_rate": 0.38352104327208064, "frequency": "344.21573726555823", "dislike": 14, "id": 183, "total_accpeted": 64700}

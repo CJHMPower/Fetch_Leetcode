@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 24200, "like": 167, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/24-game/description/", "topics": ["Depth-first Search"], "title": "24Game", "companies": ["Google\u00a07", "Twitter\u00a05"], "ac_rate": 0.3925619834710744, "frequency": "279.6849515047106", "dislike": 53, "id": 679, "total_accpeted": 9500}

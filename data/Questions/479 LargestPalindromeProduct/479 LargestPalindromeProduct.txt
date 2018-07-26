@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 43300, "like": 51, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/largest-palindrome-product/description/", "topics": [], "title": "LargestPalindromeProduct", "companies": ["Yahoo\u00a0"], "ac_rate": 0.2586605080831409, "frequency": "545.0375812426427", "dislike": 902, "id": 479, "total_accpeted": 11200}

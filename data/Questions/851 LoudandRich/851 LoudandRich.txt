@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 7900, "like": 78, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/loud-and-rich/description/", "topics": ["Depth-first Search"], "title": "LoudandRich", "companies": ["Amazon\u00a0"], "ac_rate": 0.43037974683544306, "frequency": "18.54986500386029", "dislike": 84, "id": 851, "total_accpeted": 3400}

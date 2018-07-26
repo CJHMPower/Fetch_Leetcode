@@ -1,0 +1,1 @@
+{"similar_questions": ["Valid Word Square"], "total_submission": 40000, "like": 233, "paid_only": true, "level": "Hard", "url": "https://leetcode.com/problems/word-squares/description/", "topics": ["Backtracking", "Trie"], "title": "WordSquares", "companies": ["Google\u00a021"], "ac_rate": 0.43, "frequency": "138.8955072671678", "dislike": 17, "id": 425, "total_accpeted": 17200}

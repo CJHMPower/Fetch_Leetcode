@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 88100, "like": 198, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/distribute-candies/description/", "topics": ["Hash Table"], "title": "DistributeCandies", "companies": ["LiveRamp\u00a07"], "ac_rate": 0.5811577752553916, "frequency": "374.2350534235753", "dislike": 464, "id": 575, "total_accpeted": 51200}

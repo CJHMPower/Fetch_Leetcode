@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 27300, "like": 99, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/buddy-strings/description/", "topics": ["String"], "title": "BuddyStrings", "companies": ["Google\u00a0"], "ac_rate": 0.2673992673992674, "frequency": "119.3883897313595", "dislike": 56, "id": 859, "total_accpeted": 7300}

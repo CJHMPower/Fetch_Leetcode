@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 10500, "like": 66, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/escape-the-ghosts/description/", "topics": ["Math"], "title": "EscapeTheGhosts", "companies": ["Google\u00a0"], "ac_rate": 0.5238095238095238, "frequency": "34.567093539294575", "dislike": 173, "id": 789, "total_accpeted": 5500}

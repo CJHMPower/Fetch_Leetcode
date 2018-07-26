@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 17000, "like": 37, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/convex-polygon/description/", "topics": ["Math"], "title": "ConvexPolygon", "companies": ["Google\u00a0"], "ac_rate": 0.34705882352941175, "frequency": "72.41834096729417", "dislike": 110, "id": 469, "total_accpeted": 5900}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 102000, "like": 104, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/trips-and-users/description/", "topics": [], "title": "TripsandUsers", "companies": ["Adobe\u00a03", "Uber\u00a0"], "ac_rate": 0.20588235294117646, "frequency": "383.37975602027063", "dislike": 70, "id": 262, "total_accpeted": 21000}

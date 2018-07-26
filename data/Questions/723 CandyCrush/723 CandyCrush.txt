@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 4700, "like": 60, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/candy-crush/description/", "topics": ["Array", "Two Pointers"], "title": "CandyCrush", "companies": ["Rubrik\u00a0"], "ac_rate": 0.5531914893617021, "frequency": "92.69538941713336", "dislike": 28, "id": 723, "total_accpeted": 2600}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 33000, "like": 191, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/find-anagram-mappings/description/", "topics": ["Hash Table"], "title": "FindAnagramMappings", "companies": ["Google\u00a0"], "ac_rate": 0.7666666666666667, "frequency": "505.14697609970574", "dislike": 93, "id": 760, "total_accpeted": 25300}

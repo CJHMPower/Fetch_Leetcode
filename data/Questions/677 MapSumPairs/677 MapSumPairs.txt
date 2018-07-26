@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 29200, "like": 185, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/map-sum-pairs/description/", "topics": ["Trie"], "title": "MapSumPairs", "companies": ["Akuna Capital\u00a0"], "ac_rate": 0.5102739726027398, "frequency": "144.5272751552994", "dislike": 39, "id": 677, "total_accpeted": 14900}

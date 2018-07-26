@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 7800, "like": 52, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/leaf-similar-trees/description/", "topics": ["Tree", "Depth-first Search"], "title": "Leaf-SimilarTrees", "companies": [], "ac_rate": 0.6538461538461539, "frequency": "14.464397814989852", "dislike": 4, "id": 872, "total_accpeted": 5100}

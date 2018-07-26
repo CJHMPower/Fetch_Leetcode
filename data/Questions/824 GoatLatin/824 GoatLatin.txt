@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 21600, "like": 64, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/goat-latin/description/", "topics": ["String"], "title": "GoatLatin", "companies": ["Facebook\u00a0"], "ac_rate": 0.5509259259259259, "frequency": "105.21608534136172", "dislike": 151, "id": 824, "total_accpeted": 11900}

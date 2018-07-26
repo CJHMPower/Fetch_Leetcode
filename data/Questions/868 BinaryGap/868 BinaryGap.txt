@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 10000, "like": 38, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/binary-gap/description/", "topics": ["Math"], "title": "BinaryGap", "companies": ["Twitter\u00a0", "eBay\u00a0"], "ac_rate": 0.61, "frequency": "87.68027475873149", "dislike": 65, "id": 868, "total_accpeted": 6100}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 9700, "like": 40, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/sales-person/description/", "topics": [], "title": "SalesPerson", "companies": [], "ac_rate": 0.5051546391752577, "frequency": "28.97490599176848", "dislike": 5, "id": 607, "total_accpeted": 4900}

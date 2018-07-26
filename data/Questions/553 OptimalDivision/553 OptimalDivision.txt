@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 28700, "like": 82, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/optimal-division/description/", "topics": ["Math", "String"], "title": "OptimalDivision", "companies": ["Amazon\u00a0"], "ac_rate": 0.5505226480836237, "frequency": "260.49178172356403", "dislike": 698, "id": 553, "total_accpeted": 15800}

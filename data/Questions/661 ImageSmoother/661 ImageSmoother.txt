@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 46600, "like": 127, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/image-smoother/description/", "topics": ["Array"], "title": "ImageSmoother", "companies": ["Amazon\u00a0"], "ac_rate": 0.4678111587982833, "frequency": "309.66316752705734", "dislike": 538, "id": 661, "total_accpeted": 21800}

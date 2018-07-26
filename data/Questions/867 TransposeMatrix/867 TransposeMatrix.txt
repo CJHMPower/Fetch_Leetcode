@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 15100, "like": 43, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/transpose-matrix/description/", "topics": ["Array"], "title": "TransposeMatrix", "companies": [], "ac_rate": 0.6688741721854304, "frequency": "276.1313338768646", "dislike": 67, "id": 867, "total_accpeted": 10100}

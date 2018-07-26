@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 9100, "like": 51, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/shortest-distance-in-a-line/description/", "topics": [], "title": "ShortestDistanceinaLine", "companies": [], "ac_rate": 0.7032967032967034, "frequency": "124.29961794795517", "dislike": 7, "id": 613, "total_accpeted": 6400}

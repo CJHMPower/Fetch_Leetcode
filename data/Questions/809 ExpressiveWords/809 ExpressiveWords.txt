@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 11700, "like": 50, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/expressive-words/description/", "topics": ["String"], "title": "ExpressiveWords", "companies": ["Google\u00a0"], "ac_rate": 0.37606837606837606, "frequency": "49.835321628255855", "dislike": 119, "id": 809, "total_accpeted": 4400}

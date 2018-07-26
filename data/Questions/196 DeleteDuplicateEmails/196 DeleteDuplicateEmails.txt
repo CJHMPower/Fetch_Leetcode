@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 179500, "like": 167, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/delete-duplicate-emails/description/", "topics": [], "title": "DeleteDuplicateEmails", "companies": ["Alibaba\u00a02"], "ac_rate": 0.26518105849582174, "frequency": "435.7801534321334", "dislike": 184, "id": 196, "total_accpeted": 47600}

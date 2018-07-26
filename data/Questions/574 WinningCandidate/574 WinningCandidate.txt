@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 11300, "like": 11, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/winning-candidate/description/", "topics": [], "title": "WinningCandidate", "companies": [], "ac_rate": 0.34513274336283184, "frequency": "78.34636553520306", "dislike": 84, "id": 574, "total_accpeted": 3900}

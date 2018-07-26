@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 15200, "like": 149, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/open-the-lock/description/", "topics": ["Breadth-first Search"], "title": "OpentheLock", "companies": [], "ac_rate": 0.40789473684210525, "frequency": "68.28534761308197", "dislike": 9, "id": 752, "total_accpeted": 6200}

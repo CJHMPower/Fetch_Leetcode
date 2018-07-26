@@ -1,0 +1,1 @@
+{"similar_questions": ["Pow(x, n)"], "total_submission": 63700, "like": 78, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/super-pow/description/", "topics": ["Math"], "title": "SuperPow", "companies": [], "ac_rate": 0.34850863422291994, "frequency": "343.1943704683406", "dislike": 352, "id": 372, "total_accpeted": 22200}

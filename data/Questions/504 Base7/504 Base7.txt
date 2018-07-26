@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 70000, "like": 99, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/base-7/description/", "topics": [], "title": "Base7", "companies": ["Google\u00a03"], "ac_rate": 0.43857142857142856, "frequency": "197.1835931439656", "dislike": 79, "id": 504, "total_accpeted": 30700}

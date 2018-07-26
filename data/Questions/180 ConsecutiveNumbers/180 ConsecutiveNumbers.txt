@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 118600, "like": 116, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/consecutive-numbers/description/", "topics": [], "title": "ConsecutiveNumbers", "companies": [], "ac_rate": 0.2875210792580101, "frequency": "469.10165015881944", "dislike": 35, "id": 180, "total_accpeted": 34100}

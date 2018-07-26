@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8400, "like": 28, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/triangle-judgement/description/", "topics": [], "title": "TriangleJudgement", "companies": [], "ac_rate": 0.5833333333333334, "frequency": "67.56502650161431", "dislike": 4, "id": 610, "total_accpeted": 4900}

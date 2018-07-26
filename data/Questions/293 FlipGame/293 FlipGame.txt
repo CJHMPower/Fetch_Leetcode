@@ -1,0 +1,1 @@
+{"similar_questions": ["Flip Game II"], "total_submission": 60400, "like": 45, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/flip-game/description/", "topics": ["String"], "title": "FlipGame", "companies": ["Google\u00a0"], "ac_rate": 0.5761589403973509, "frequency": "168.3916783549917", "dislike": 118, "id": 293, "total_accpeted": 34800}

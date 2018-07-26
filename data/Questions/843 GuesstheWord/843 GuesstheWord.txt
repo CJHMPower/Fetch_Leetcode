@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 6800, "like": 46, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/guess-the-word/description/", "topics": ["Minimax"], "title": "GuesstheWord", "companies": ["Google\u00a05"], "ac_rate": 0.3382352941176471, "frequency": "186.8259965624308", "dislike": 56, "id": 843, "total_accpeted": 2300}

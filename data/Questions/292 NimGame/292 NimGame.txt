@@ -1,0 +1,1 @@
+{"similar_questions": ["Flip Game II"], "total_submission": 300800, "like": 224, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/nim-game/description/", "topics": ["Brainteaser"], "title": "NimGame", "companies": ["Adobe\u00a0"], "ac_rate": 0.5538563829787234, "frequency": "624.2000436675411", "dislike": 781, "id": 292, "total_accpeted": 166600}

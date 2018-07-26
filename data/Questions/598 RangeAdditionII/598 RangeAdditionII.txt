@@ -1,0 +1,1 @@
+{"similar_questions": ["Range Addition"], "total_submission": 47500, "like": 125, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/range-addition-ii/description/", "topics": ["Math"], "title": "RangeAdditionII", "companies": ["IXL\u00a09"], "ac_rate": 0.48, "frequency": "229.50614029897696", "dislike": 346, "id": 598, "total_accpeted": 22800}

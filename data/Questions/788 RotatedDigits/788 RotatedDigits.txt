@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 25000, "like": 100, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/rotated-digits/description/", "topics": ["String"], "title": "RotatedDigits", "companies": ["Google\u00a0"], "ac_rate": 0.512, "frequency": "304.3604642519375", "dislike": 319, "id": 788, "total_accpeted": 12800}

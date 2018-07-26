@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 6400, "like": 102, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/unique-letter-string/description/", "topics": ["Two Pointers"], "title": "UniqueLetterString", "companies": ["ForUsAll\u00a0"], "ac_rate": 0.34375, "frequency": "107.34486299701322", "dislike": 10, "id": 828, "total_accpeted": 2200}

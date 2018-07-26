@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 72800, "like": 213, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/binary-tree-tilt/description/", "topics": ["Tree"], "title": "BinaryTreeTilt", "companies": ["Indeed\u00a0"], "ac_rate": 0.4684065934065934, "frequency": "240.38333461803103", "dislike": 419, "id": 563, "total_accpeted": 34100}

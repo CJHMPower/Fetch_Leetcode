@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 10100, "like": 110, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/sliding-puzzle/description/", "topics": ["Breadth-first Search"], "title": "SlidingPuzzle", "companies": ["Airbnb\u00a03"], "ac_rate": 0.46534653465346537, "frequency": "167.0714176488939", "dislike": 3, "id": 773, "total_accpeted": 4700}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 53900, "like": 195, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/baseball-game/description/", "topics": ["Stack"], "title": "BaseballGame", "companies": ["Amazon\u00a0"], "ac_rate": 0.5825602968460112, "frequency": "382.358389223053", "dislike": 466, "id": 682, "total_accpeted": 31400}

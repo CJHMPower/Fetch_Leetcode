@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 79100, "like": 261, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/big-countries/description/", "topics": [], "title": "BigCountries", "companies": [], "ac_rate": 0.7168141592920354, "frequency": "603.7727077231883", "dislike": 296, "id": 595, "total_accpeted": 56700}

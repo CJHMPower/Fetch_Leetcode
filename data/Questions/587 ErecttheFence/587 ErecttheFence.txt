@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 15300, "like": 86, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/erect-the-fence/description/", "topics": ["Geometry"], "title": "ErecttheFence", "companies": ["Google\u00a0"], "ac_rate": 0.3333333333333333, "frequency": "92.42246741844855", "dislike": 116, "id": 587, "total_accpeted": 5100}

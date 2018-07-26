@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 22700, "like": 98, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/subdomain-visit-count/description/", "topics": ["Hash Table"], "title": "SubdomainVisitCount", "companies": ["Roblox\u00a0"], "ac_rate": 0.6123348017621145, "frequency": "291.0247649309548", "dislike": 158, "id": 811, "total_accpeted": 13900}

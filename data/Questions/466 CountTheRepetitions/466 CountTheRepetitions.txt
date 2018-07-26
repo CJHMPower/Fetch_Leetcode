@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 23000, "like": 75, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/count-the-repetitions/description/", "topics": ["Dynamic Programming"], "title": "CountTheRepetitions", "companies": [], "ac_rate": 0.27391304347826084, "frequency": "226.91977211783683", "dislike": 47, "id": 466, "total_accpeted": 6300}

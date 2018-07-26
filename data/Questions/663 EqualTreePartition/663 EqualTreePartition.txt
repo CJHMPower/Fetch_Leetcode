@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 25000, "like": 153, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/equal-tree-partition/description/", "topics": ["Tree"], "title": "EqualTreePartition", "companies": ["Amazon\u00a0"], "ac_rate": 0.364, "frequency": "52.12651565917949", "dislike": 8, "id": 663, "total_accpeted": 9100}

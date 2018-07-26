@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 9300, "like": 71, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/short-encoding-of-words/description/", "topics": [], "title": "ShortEncodingofWords", "companies": [], "ac_rate": 0.41935483870967744, "frequency": "48.11933605974701", "dislike": 22, "id": 820, "total_accpeted": 3900}

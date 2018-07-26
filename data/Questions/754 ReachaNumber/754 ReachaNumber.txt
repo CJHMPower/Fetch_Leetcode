@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 15500, "like": 113, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/reach-a-number/description/", "topics": ["Math"], "title": "ReachaNumber", "companies": ["inmobi\u00a0"], "ac_rate": 0.2838709677419355, "frequency": "145.6977103199597", "dislike": 99, "id": 754, "total_accpeted": 4400}

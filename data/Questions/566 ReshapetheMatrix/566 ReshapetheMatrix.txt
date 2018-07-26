@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 96400, "like": 379, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/reshape-the-matrix/description/", "topics": ["Array"], "title": "ReshapetheMatrix", "companies": ["Mathworks\u00a0"], "ac_rate": 0.5767634854771784, "frequency": "409.034765137461", "dislike": 58, "id": 566, "total_accpeted": 55600}

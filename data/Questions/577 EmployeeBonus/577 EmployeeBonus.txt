@@ -1,0 +1,1 @@
+{"similar_questions": ["Combine Two Tables"], "total_submission": 11400, "like": 21, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/employee-bonus/description/", "topics": [], "title": "EmployeeBonus", "companies": ["Netsuite\u00a0"], "ac_rate": 0.5175438596491229, "frequency": "28.729753730281345", "dislike": 11, "id": 577, "total_accpeted": 5900}

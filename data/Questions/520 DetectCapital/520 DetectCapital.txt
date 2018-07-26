@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 122400, "like": 219, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/detect-capital/description/", "topics": ["String"], "title": "DetectCapital", "companies": ["Google\u00a0"], "ac_rate": 0.5187908496732027, "frequency": "228.14262632091527", "dislike": 128, "id": 520, "total_accpeted": 63500}

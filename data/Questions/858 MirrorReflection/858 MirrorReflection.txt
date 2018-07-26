@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 4900, "like": 64, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/mirror-reflection/description/", "topics": ["Math"], "title": "MirrorReflection", "companies": [], "ac_rate": 0.46938775510204084, "frequency": "121.73832608001524", "dislike": 68, "id": 858, "total_accpeted": 2300}

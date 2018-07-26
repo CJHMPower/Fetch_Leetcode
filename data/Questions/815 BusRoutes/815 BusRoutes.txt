@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 16100, "like": 157, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/bus-routes/description/", "topics": ["Breadth-first Search"], "title": "BusRoutes", "companies": ["Google\u00a02"], "ac_rate": 0.32919254658385094, "frequency": "87.92841241815168", "dislike": 5, "id": 815, "total_accpeted": 5300}

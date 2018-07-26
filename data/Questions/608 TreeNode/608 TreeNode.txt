@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8400, "like": 62, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/tree-node/description/", "topics": [], "title": "TreeNode", "companies": ["Twitter\u00a08"], "ac_rate": 0.5357142857142857, "frequency": "109.30383212570752", "dislike": 4, "id": 608, "total_accpeted": 4500}

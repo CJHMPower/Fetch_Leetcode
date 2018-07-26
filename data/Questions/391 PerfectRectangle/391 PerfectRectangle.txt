@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 54800, "like": 148, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/perfect-rectangle/description/", "topics": [], "title": "PerfectRectangle", "companies": ["Google\u00a010"], "ac_rate": 0.2773722627737226, "frequency": "277.2774841550015", "dislike": 40, "id": 391, "total_accpeted": 15200}

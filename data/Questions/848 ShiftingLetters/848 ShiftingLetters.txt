@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 14200, "like": 62, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/shifting-letters/description/", "topics": ["String"], "title": "ShiftingLetters", "companies": [], "ac_rate": 0.352112676056338, "frequency": "58.48150060477499", "dislike": 10, "id": 848, "total_accpeted": 5000}

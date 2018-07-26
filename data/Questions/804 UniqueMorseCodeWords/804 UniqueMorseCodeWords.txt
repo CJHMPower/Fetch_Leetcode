@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 40100, "like": 205, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/unique-morse-code-words/description/", "topics": ["String"], "title": "UniqueMorseCodeWords", "companies": ["Google\u00a04"], "ac_rate": 0.713216957605985, "frequency": "496.39730156497", "dislike": 100, "id": 804, "total_accpeted": 28600}

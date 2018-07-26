@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 6800, "like": 74, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/koko-eating-bananas/description/", "topics": ["Binary Search"], "title": "KokoEatingBananas", "companies": [], "ac_rate": 0.39705882352941174, "frequency": "17.52849820664268", "dislike": 5, "id": 875, "total_accpeted": 2700}

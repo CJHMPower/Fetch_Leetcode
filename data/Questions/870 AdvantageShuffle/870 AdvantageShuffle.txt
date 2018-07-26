@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8900, "like": 79, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/advantage-shuffle/description/", "topics": ["Array", "Greedy"], "title": "AdvantageShuffle", "companies": [], "ac_rate": 0.38202247191011235, "frequency": "5.181550818906118", "dislike": 7, "id": 870, "total_accpeted": 3400}

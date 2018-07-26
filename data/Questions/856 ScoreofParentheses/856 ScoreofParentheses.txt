@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 9900, "like": 164, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/score-of-parentheses/description/", "topics": ["String", "Stack"], "title": "ScoreofParentheses", "companies": [], "ac_rate": 0.5454545454545454, "frequency": "122.25688435351995", "dislike": 6, "id": 856, "total_accpeted": 5400}

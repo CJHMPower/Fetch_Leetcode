@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 633700, "like": 209, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/length-of-last-word/description/", "topics": ["String"], "title": "LengthofLastWord", "companies": ["Alibaba\u00a03"], "ac_rate": 0.32065646204828785, "frequency": "398.91184745424846", "dislike": 799, "id": 58, "total_accpeted": 203200}

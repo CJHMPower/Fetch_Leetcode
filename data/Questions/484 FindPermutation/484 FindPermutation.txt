@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 18200, "like": 122, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/find-permutation/description/", "topics": ["Greedy"], "title": "FindPermutation", "companies": ["Google\u00a0"], "ac_rate": 0.554945054945055, "frequency": "78.8545982753262", "dislike": 34, "id": 484, "total_accpeted": 10100}

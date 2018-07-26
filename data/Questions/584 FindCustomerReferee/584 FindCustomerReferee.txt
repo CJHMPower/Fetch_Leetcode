@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 9400, "like": 25, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/find-customer-referee/description/", "topics": [], "title": "FindCustomerReferee", "companies": [], "ac_rate": 0.6276595744680851, "frequency": "31.579100108313895", "dislike": 10, "id": 584, "total_accpeted": 5900}

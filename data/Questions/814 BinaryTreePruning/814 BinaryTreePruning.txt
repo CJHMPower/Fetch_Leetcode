@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 17100, "like": 233, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/binary-tree-pruning/description/", "topics": ["Tree"], "title": "BinaryTreePruning", "companies": ["Hulu\u00a0"], "ac_rate": 0.6842105263157895, "frequency": "211.08709142689287", "dislike": 3, "id": 814, "total_accpeted": 11700}

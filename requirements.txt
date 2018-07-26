@@ -1,0 +1,8 @@
+Selenium==3.13.0 
+
+bs4==4.5.1
+
+pandas==0.19.2
+tqdm==4.11.2
+yapf==0.22.0
+urllib==1.17

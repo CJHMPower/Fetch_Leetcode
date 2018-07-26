@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 12300, "like": 65, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/car-fleet/description/", "topics": ["Stack"], "title": "CarFleet", "companies": ["Google\u00a0"], "ac_rate": 0.3089430894308943, "frequency": "9.833184772858218", "dislike": 61, "id": 853, "total_accpeted": 3800}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 9300, "like": 76, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/image-overlap/description/", "topics": ["Array"], "title": "ImageOverlap", "companies": ["Google\u00a03"], "ac_rate": 0.3978494623655914, "frequency": "157.33951936127315", "dislike": 125, "id": 835, "total_accpeted": 3700}

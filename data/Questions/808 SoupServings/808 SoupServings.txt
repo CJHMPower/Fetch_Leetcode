@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8800, "like": 51, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/soup-servings/description/", "topics": ["Dynamic Programming"], "title": "SoupServings", "companies": ["Google\u00a0"], "ac_rate": 0.3409090909090909, "frequency": "88.94977921536929", "dislike": 168, "id": 808, "total_accpeted": 3000}

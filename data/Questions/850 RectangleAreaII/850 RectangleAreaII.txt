@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 3400, "like": 56, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/rectangle-area-ii/description/", "topics": ["Segment Tree"], "title": "RectangleAreaII", "companies": ["Google\u00a02"], "ac_rate": 0.4411764705882353, "frequency": "54.396033415904554", "dislike": 7, "id": 850, "total_accpeted": 1500}

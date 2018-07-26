@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 164600, "like": 136, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/rising-temperature/description/", "topics": [], "title": "RisingTemperature", "companies": [], "ac_rate": 0.3159173754556501, "frequency": "542.9341492751636", "dislike": 41, "id": 197, "total_accpeted": 52000}

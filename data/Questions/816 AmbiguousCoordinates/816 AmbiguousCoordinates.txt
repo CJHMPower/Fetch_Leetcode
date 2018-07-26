@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8200, "like": 43, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/ambiguous-coordinates/description/", "topics": ["String"], "title": "AmbiguousCoordinates", "companies": ["Google\u00a0"], "ac_rate": 0.4146341463414634, "frequency": "39.773953587259626", "dislike": 84, "id": 816, "total_accpeted": 3400}

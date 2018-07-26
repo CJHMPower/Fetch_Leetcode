@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 19200, "like": 76, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/friends-of-appropriate-ages/description/", "topics": ["Array"], "title": "FriendsOfAppropriateAges", "companies": ["Facebook\u00a04"], "ac_rate": 0.296875, "frequency": "61.29650859939446", "dislike": 126, "id": 825, "total_accpeted": 5700}

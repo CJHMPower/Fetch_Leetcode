@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8000, "like": 40, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/reordered-power-of-2/description/", "topics": ["Math"], "title": "ReorderedPowerof2", "companies": [], "ac_rate": 0.4625, "frequency": "30.322845432222493", "dislike": 21, "id": 869, "total_accpeted": 3700}

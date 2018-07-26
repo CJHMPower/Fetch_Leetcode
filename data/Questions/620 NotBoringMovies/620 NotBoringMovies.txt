@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 52900, "like": 122, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/not-boring-movies/description/", "topics": [], "title": "NotBoringMovies", "companies": [], "ac_rate": 0.5935727788279773, "frequency": "297.75903602596736", "dislike": 133, "id": 620, "total_accpeted": 31400}

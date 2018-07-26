@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 42400, "like": 144, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/elimination-game/description/", "topics": [], "title": "EliminationGame", "companies": [], "ac_rate": 0.4268867924528302, "frequency": "440.3367671904707", "dislike": 127, "id": 390, "total_accpeted": 18100}

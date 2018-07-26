@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 14000, "like": 88, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/lemonade-change/description/", "topics": ["Greedy"], "title": "LemonadeChange", "companies": [], "ac_rate": 0.5, "frequency": "52.63551348303818", "dislike": 15, "id": 860, "total_accpeted": 7000}

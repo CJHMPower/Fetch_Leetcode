@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 139400, "like": 404, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/array-partition-i/description/", "topics": ["Array"], "title": "ArrayPartitionI", "companies": [], "ac_rate": 0.6678622668579627, "frequency": "601.729974128753", "dislike": 1094, "id": 561, "total_accpeted": 93100}

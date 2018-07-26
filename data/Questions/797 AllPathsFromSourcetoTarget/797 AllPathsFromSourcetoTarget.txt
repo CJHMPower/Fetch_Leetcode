@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 14900, "like": 152, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/all-paths-from-source-to-target/description/", "topics": [], "title": "AllPathsFromSourcetoTarget", "companies": [], "ac_rate": 0.6711409395973155, "frequency": "305.53154142742176", "dislike": 13, "id": 797, "total_accpeted": 10000}

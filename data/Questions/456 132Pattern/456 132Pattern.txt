@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 72300, "like": 359, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/132-pattern/description/", "topics": ["Stack"], "title": "132Pattern", "companies": [], "ac_rate": 0.2766251728907331, "frequency": "232.44250603027615", "dislike": 29, "id": 456, "total_accpeted": 20000}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 115200, "like": 92, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/number-of-segments-in-a-string/description/", "topics": ["String"], "title": "NumberofSegmentsinaString", "companies": [], "ac_rate": 0.3654513888888889, "frequency": "203.29111519809385", "dislike": 377, "id": 434, "total_accpeted": 42100}

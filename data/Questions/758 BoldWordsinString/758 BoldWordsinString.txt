@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 12000, "like": 55, "paid_only": true, "level": "Easy", "url": "https://leetcode.com/problems/bold-words-in-string/description/", "topics": ["String"], "title": "BoldWordsinString", "companies": ["Google\u00a0"], "ac_rate": 0.4, "frequency": "19.108799803928363", "dislike": 32, "id": 758, "total_accpeted": 4800}

@@ -1,0 +1,1 @@
+{"similar_questions": ["Teemo Attacking"], "total_submission": 15800, "like": 142, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/dota2-senate/description/", "topics": ["Greedy"], "title": "Dota2Senate", "companies": ["Valve\u00a0"], "ac_rate": 0.3670886075949367, "frequency": "71.98944381051177", "dislike": 108, "id": 649, "total_accpeted": 5800}

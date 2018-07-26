@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 50900, "like": 180, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/swap-salary/description/", "topics": [], "title": "SwapSalary", "companies": ["Google\u00a02"], "ac_rate": 0.6719056974459725, "frequency": "543.9555160723812", "dislike": 135, "id": 627, "total_accpeted": 34200}

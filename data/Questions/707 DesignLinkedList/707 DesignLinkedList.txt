@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 19600, "like": 35, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/design-linked-list/description/", "topics": ["Linked List", "Design"], "title": "DesignLinkedList", "companies": [], "ac_rate": 0.09183673469387756, "frequency": "4.160184021688508", "dislike": 4, "id": 707, "total_accpeted": 1800}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 72100, "like": 192, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/largest-bst-subtree/description/", "topics": ["Tree"], "title": "LargestBSTSubtree", "companies": ["Microsoft\u00a0"], "ac_rate": 0.31484049930651875, "frequency": "81.40005524521624", "dislike": 16, "id": 333, "total_accpeted": 22700}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 76000, "like": 90, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/construct-the-rectangle/description/", "topics": [], "title": "ConstructtheRectangle", "companies": [], "ac_rate": 0.48026315789473684, "frequency": "246.33329802106098", "dislike": 131, "id": 492, "total_accpeted": 36500}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 9900, "like": 30, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/to-lower-case/description/", "topics": ["String"], "title": "ToLowerCase", "companies": [], "ac_rate": 0.7474747474747475, "frequency": "361.53307518216536", "dislike": 121, "id": 709, "total_accpeted": 7400}

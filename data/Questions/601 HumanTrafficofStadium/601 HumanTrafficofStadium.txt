@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 20600, "like": 49, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/human-traffic-of-stadium/description/", "topics": [], "title": "HumanTrafficofStadium", "companies": [], "ac_rate": 0.33495145631067963, "frequency": "264.8498414844995", "dislike": 101, "id": 601, "total_accpeted": 6900}

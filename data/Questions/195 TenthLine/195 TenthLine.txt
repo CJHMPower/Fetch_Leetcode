@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 84000, "like": 78, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/tenth-line/description/", "topics": [], "title": "TenthLine", "companies": ["Facebook\u00a02", "Adobe\u00a0"], "ac_rate": 0.3392857142857143, "frequency": "605.8154413176236", "dislike": 49, "id": 195, "total_accpeted": 28500}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 29000, "like": 130, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/most-common-word/description/", "topics": ["String"], "title": "MostCommonWord", "companies": ["Amazon\u00a055"], "ac_rate": 0.4862068965517241, "frequency": "350.5375323851356", "dislike": 75, "id": 819, "total_accpeted": 14100}

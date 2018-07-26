@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 113300, "like": 289, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/keyboard-row/description/", "topics": ["Hash Table"], "title": "KeyboardRow", "companies": ["Mathworks\u00a03"], "ac_rate": 0.6028243601059136, "frequency": "499.6915492901469", "dislike": 292, "id": 500, "total_accpeted": 68300}

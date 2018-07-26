@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 8700, "like": 21, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/card-flipping-game/description/", "topics": [], "title": "CardFlippingGame", "companies": [], "ac_rate": 0.3563218390804598, "frequency": "91.47184329982525", "dislike": 160, "id": 822, "total_accpeted": 3100}

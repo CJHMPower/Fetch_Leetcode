@@ -1,0 +1,1 @@
+{"similar_questions": ["H-Index"], "total_submission": 190800, "like": 134, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/h-index-ii/description/", "topics": ["Binary Search"], "title": "H-IndexII", "companies": ["Facebook\u00a0"], "ac_rate": 0.35115303983228513, "frequency": "229.80533142990163", "dislike": 226, "id": 275, "total_accpeted": 67000}

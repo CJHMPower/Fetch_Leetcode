@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 64900, "like": 53, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/self-crossing/description/", "topics": ["Math"], "title": "SelfCrossing", "companies": [], "ac_rate": 0.2650231124807396, "frequency": "506.1683428969234", "dislike": 182, "id": 335, "total_accpeted": 17200}

@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 13800, "like": 146, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/champagne-tower/description/", "topics": [], "title": "ChampagneTower", "companies": [], "ac_rate": 0.2971014492753623, "frequency": "83.44278883965146", "dislike": 7, "id": 799, "total_accpeted": 4100}

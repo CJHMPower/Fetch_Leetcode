@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 154200, "like": 169, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/duplicate-emails/description/", "topics": [], "title": "DuplicateEmails", "companies": [], "ac_rate": 0.47535667963683526, "frequency": "445.861509502662", "dislike": 7, "id": 182, "total_accpeted": 73300}

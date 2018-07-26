@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 13300, "like": 42, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/largest-triangle-area/description/", "topics": ["Math"], "title": "LargestTriangleArea", "companies": ["Google\u00a0"], "ac_rate": 0.5338345864661654, "frequency": "298.780402823185", "dislike": 306, "id": 812, "total_accpeted": 7100}

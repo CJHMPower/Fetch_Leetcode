@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 63400, "like": 167, "paid_only": true, "level": "Medium", "url": "https://leetcode.com/problems/bomb-enemy/description/", "topics": ["Dynamic Programming"], "title": "BombEnemy", "companies": ["Google\u00a021"], "ac_rate": 0.4085173501577287, "frequency": "199.89091000458916", "dislike": 42, "id": 361, "total_accpeted": 25900}

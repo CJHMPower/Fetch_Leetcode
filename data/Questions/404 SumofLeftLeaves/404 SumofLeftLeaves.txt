@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 198700, "like": 400, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/sum-of-left-leaves/description/", "topics": ["Tree"], "title": "SumofLeftLeaves", "companies": ["Facebook\u00a0"], "ac_rate": 0.47861097131353797, "frequency": "297.195617933928", "dislike": 41, "id": 404, "total_accpeted": 95100}

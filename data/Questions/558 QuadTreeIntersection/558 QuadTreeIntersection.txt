@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 967, "like": 4, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/quad-tree-intersection/description/", "topics": [], "title": "QuadTreeIntersection", "companies": [], "ac_rate": 0.20579110651499483, "frequency": "0", "dislike": 44, "id": 558, "total_accpeted": 199}

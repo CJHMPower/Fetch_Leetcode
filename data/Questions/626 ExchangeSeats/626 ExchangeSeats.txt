@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 20200, "like": 79, "paid_only": false, "level": "Medium", "url": "https://leetcode.com/problems/exchange-seats/description/", "topics": [], "title": "ExchangeSeats", "companies": [], "ac_rate": 0.4900990099009901, "frequency": "381.4636278255888", "dislike": 84, "id": 626, "total_accpeted": 9900}

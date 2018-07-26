@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 3600, "like": 21, "paid_only": false, "level": "Hard", "url": "https://leetcode.com/problems/chalkboard-xor-game/description/", "topics": ["Math"], "title": "ChalkboardXORGame", "companies": ["Garena\u00a0"], "ac_rate": 0.3888888888888889, "frequency": "85.40174334467991", "dislike": 93, "id": 810, "total_accpeted": 1400}

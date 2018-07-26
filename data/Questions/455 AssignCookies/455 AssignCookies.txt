@@ -1,0 +1,1 @@
+{"similar_questions": [], "total_submission": 96800, "like": 184, "paid_only": false, "level": "Easy", "url": "https://leetcode.com/problems/assign-cookies/description/", "topics": ["Greedy"], "title": "AssignCookies", "companies": [], "ac_rate": 0.47417355371900827, "frequency": "305.52920607584235", "dislike": 38, "id": 455, "total_accpeted": 45900}
